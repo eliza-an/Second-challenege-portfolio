@@ -73,3 +73,9 @@ You are required to submit BOTH of the following for review:
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+
+
+<a href="https://www.flaticon.com/free-icons/cat" title="cat icons">Cat icons created by Dave Gandy - Flaticon</a> githuib
+https://pixabay.com/vectors/email-icon-web-internet-symbol-309491/ email icon
