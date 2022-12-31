@@ -5,8 +5,8 @@
 body {
   margin: 0;
   padding: 0;
-  background-repeat: no-repeat;
-  background-size: contain;
+  width:100%;
+  
   
 }
 
@@ -33,7 +33,7 @@ font-size: 20px;
 display:inline-flex;
 flex-direction: row;
 padding: 10px;
-
+width: 100%;
 }
 
 header h1{ 
@@ -45,6 +45,7 @@ header h1{
 background-color: rgb(188, 193, 224);
 flex-direction: row;
 padding-top:15px;
+
 }
 
 a {
@@ -67,7 +68,6 @@ li:hover {
 /* large background formatting*/
 .banner-of-coding {
   height: 300px;
-  width: 135;
   margin:0;
   background-size: cover;
   background-position: left;
@@ -95,7 +95,7 @@ li:hover {
 /*main title formatting*/
 .main-title h2{
   position:relative;
-  width: 100px;
+  width: 40%;
   padding-left: 45px;
   font-size: 40px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -103,19 +103,14 @@ li:hover {
   color: #1c2786;
   white-space: nowrap;
   top: -18px;
-  
+    display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 150px;
   
 }
 
 
-.web-dev {
 
-padding-left: 80px;
-position: relative;
-left:250px;
-padding-right: 50px;
-
-}
 
 
 
@@ -236,6 +231,31 @@ footer{
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #1c2786;
   width: 100%;
-  overflow:hidden;
+
   padding-top: 30px;
+}
+
+@media only screen and (max-width:760px) {
+.main-title h2{
+  display:table-row; }
+
+  header nav ul {
+   
+    display:inline-flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 100%;
+    }
+    
+    
+   header h1{ 
+    max-height: 110px;}
+    
+    .picture{
+max-width: 180px;
+    }
+    
+.main-title{
+  padding-top: 20px;
+}
 }
