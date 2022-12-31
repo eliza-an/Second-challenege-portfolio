@@ -22,9 +22,10 @@ I have leanred how to make websites responsive. I must admit, the task was not a
 
 This was an incredibly useful task!
 
-![alt text](../Second-challenege-portfolio/images/322718235_1191262218177419_8214740255364535238_n.jpg)
+![image](https://user-images.githubusercontent.com/118762745/210139669-9db3fc17-7b6e-4178-bd6d-40ec0a00d718.png)
+![image](https://user-images.githubusercontent.com/118762745/210139775-d15e2f16-b492-4849-afc8-136acf735227.png)
 
-![alt text](../Second-challenege-portfolio/images/322657468_1369339013881063_5078663907178996336_n.png)
+
 
 
 Link: https://eliza-an.github.io/Second-challenge-portfolio/ 
